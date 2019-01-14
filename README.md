@@ -1,7 +1,3 @@
-# Hands-On-Game-AI-Development
-
-Hands-On Game AI Development
-
 # Hands-on Game AI Development
 This is the code repository for [Hands-on Game AI Development](https://www.packtpub.com/application-development/hands-application-development-spring-boot-20-video?utm_source=github&utm_medium=repository&utm_campaign=9781789137712), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
